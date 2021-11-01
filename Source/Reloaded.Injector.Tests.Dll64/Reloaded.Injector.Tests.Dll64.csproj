@@ -9,7 +9,7 @@
     <Platforms>x64</Platforms>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="NXPorts" Version="0.2.0" />
+    <PackageReference Include="NXPorts" Version="1.1.0" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Reloaded.Injector.Shared\Reloaded.Injector.Shared.csproj" />

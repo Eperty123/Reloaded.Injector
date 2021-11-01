@@ -4,6 +4,7 @@ using System.IO;
 using System.Runtime.InteropServices;
 using System.Text;
 using PeNet;
+using PeNet.Header.Pe;
 using Reloaded.Injector.Exceptions;
 using Reloaded.Injector.Interop;
 using Reloaded.Injector.Interop.Structures;
